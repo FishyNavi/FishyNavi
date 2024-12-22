@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @FishyNavi
-- 👀 I’m interested in python
-- 🌱 I’m currently learning javascript
-- ⚡ Fun fact: SbHelper is almost done :)
-- 
 
 <!---
 FishyNavi/FishyNavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
